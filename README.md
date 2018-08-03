@@ -1,4 +1,3 @@
-# Homework2
-CS 473 HW 2
+# Hwork2
 
 By Kavit Meghpara
